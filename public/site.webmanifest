@@ -1,6 +1,6 @@
 {
-  "name": "Harvest Basket",
-  "short_name": "Harvest Basket",
+  "name": "Jiroimports",
+  "short_name": "Jiroimports",
   "description": "Wholesale food, made simple.",
   "start_url": "/",
   "display": "standalone",
